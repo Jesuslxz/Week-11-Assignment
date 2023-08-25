@@ -1,0 +1,35 @@
+.container{
+    background-color: rgb(91, 110, 128);
+    border: solid;
+    justify-content: center;
+    
+}
+.col{
+    border: solid;
+    padding: 10px;
+    margin: 0px; 
+    text-align: center;
+    font-size: x-large;
+}
+.turn{
+    text-align: center;
+    font-size: XX-large;
+}
+
+.contain{
+    display: flex;
+    justify-content: center;
+}
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  .closebtn:hover {
+    color: black;
+  }
